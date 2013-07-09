@@ -17,7 +17,6 @@ app.yui.setCoreFromAppOrigin();
 
 // custom view engine to rely on yui templates
 app.set('view', app.yui.view({
-    defaultBundle: 'demo',
     defaultLayout: 'layout'
 }));
 

@@ -1,0 +1,1 @@
+YUI.add("loader-yaf-dispatcher",function(e,t){YUI.Env[e.version].modules=YUI.Env[e.version].modules||{},e.mix(YUI.Env[e.version].modules,{"loader-yaf-dispatcher":{affinity:"client",group:"yaf-dispatcher"},"yaf-dispatcher":{group:"yaf-dispatcher",requires:["app"]}})},"@VERSION@",{requires:["loader-base"]});

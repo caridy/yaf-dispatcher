@@ -1,6 +1,6 @@
 {
     "name": "demo",
-    "description": "Locator Dust Demo.",
+    "description": "Demo",
     "version": "0.0.1",
     "private": true,
     "main": "app.js",

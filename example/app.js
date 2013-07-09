@@ -7,7 +7,7 @@ var express = require('express'),
     YUI = require('express-yui'),
     Locator = require('locator'),
     LocatorDust = require('locator-dust'),
-    Dispatcher = require('yaf-dispatcher'),
+    Dispatcher = require('../'), // yaf-dispatcher
     app = express();
 
 params.extend(app);
